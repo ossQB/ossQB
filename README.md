@@ -1,6 +1,10 @@
 <h1>OSS - 2조</h1>
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=oss%20QB&fontSize=90)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossQB&show_icons=true&theme=maroongold)
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=DMU&fontSize=90)
 
 <h4>members</h4>
 <h6>Team Leader</h6>
